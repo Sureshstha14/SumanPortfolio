@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SumanRepo/static/css/main.728998a7.css",
-    "main.js": "/SumanRepo/static/js/main.225a879d.js",
+    "main.css": "/SumanRepo/static/css/main.6179b67b.css",
+    "main.js": "/SumanRepo/static/js/main.50972bdb.js",
     "static/js/453.0e7cd845.chunk.js": "/SumanRepo/static/js/453.0e7cd845.chunk.js",
     "static/media/hotelbooking.jpg": "/SumanRepo/static/media/hotelbooking.b4129e9fb308ca98a91c.jpg",
     "static/media/sumanupd.jpg": "/SumanRepo/static/media/sumanupd.d941afb7bdd8c8b7516a.jpg",
@@ -17,12 +17,12 @@
     "static/media/sumina.jpg": "/SumanRepo/static/media/sumina.bf34f9797feaf0bdd6c7.jpg",
     "static/media/samjhana.jpg": "/SumanRepo/static/media/samjhana.ee69a2de738b307da9f8.jpg",
     "index.html": "/SumanRepo/index.html",
-    "main.728998a7.css.map": "/SumanRepo/static/css/main.728998a7.css.map",
-    "main.225a879d.js.map": "/SumanRepo/static/js/main.225a879d.js.map",
+    "main.6179b67b.css.map": "/SumanRepo/static/css/main.6179b67b.css.map",
+    "main.50972bdb.js.map": "/SumanRepo/static/js/main.50972bdb.js.map",
     "453.0e7cd845.chunk.js.map": "/SumanRepo/static/js/453.0e7cd845.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.728998a7.css",
-    "static/js/main.225a879d.js"
+    "static/css/main.6179b67b.css",
+    "static/js/main.50972bdb.js"
   ]
 }
