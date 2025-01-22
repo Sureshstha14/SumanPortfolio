@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72d91e17.css",
+    "main.js": "/static/js/main.6a9102ac.js",
+    "static/js/453.0e7cd845.chunk.js": "/static/js/453.0e7cd845.chunk.js",
+    "static/media/hotelbooking.jpg": "/static/media/hotelbooking.b4129e9fb308ca98a91c.jpg",
+    "static/media/sumanupd.jpg": "/static/media/sumanupd.d941afb7bdd8c8b7516a.jpg",
+    "static/media/suman.jpg": "/static/media/suman.144da712d52f3d971624.jpg",
+    "static/media/suman_resume.pdf": "/static/media/suman_resume.e7388abcc73440f34d4b.pdf",
+    "static/media/chatbot.jpg": "/static/media/chatbot.6e920f4ab444c7bc49fc.jpg",
+    "static/media/education.jpg": "/static/media/education.74b8c831c1c54b4c2fc8.jpg",
+    "static/media/sachin.jpg": "/static/media/sachin.9e4498e1f79858ac9e6b.jpg",
+    "static/media/suraj.jpg": "/static/media/suraj.0724fc3f8d569915e561.jpg",
+    "static/media/stockMarker.jpg": "/static/media/stockMarker.14f82bf3cc614587cda9.jpg",
+    "static/media/Ecommerce.png": "/static/media/Ecommerce.fa700c135d199a3a343e.png",
+    "static/media/sumina.jpg": "/static/media/sumina.bf34f9797feaf0bdd6c7.jpg",
+    "static/media/samjhana.jpg": "/static/media/samjhana.ee69a2de738b307da9f8.jpg",
+    "index.html": "/index.html",
+    "main.72d91e17.css.map": "/static/css/main.72d91e17.css.map",
+    "main.6a9102ac.js.map": "/static/js/main.6a9102ac.js.map",
+    "453.0e7cd845.chunk.js.map": "/static/js/453.0e7cd845.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72d91e17.css",
+    "static/js/main.6a9102ac.js"
+  ]
+}
